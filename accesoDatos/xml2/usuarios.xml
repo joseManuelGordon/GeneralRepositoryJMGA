@@ -1,0 +1,17 @@
+<usuarios>
+	<usuario id="u1">
+		<nombre>juan</nombre>
+		<edad>23</edad>
+		<fechaRegistro>09/10/2015</fechaRegistro>
+	</usuario>
+	<usuario id="u2">
+		<nombre>maria</nombre>
+		<edad>19</edad>
+		<fechaRegistro>09/10/2022</fechaRegistro>
+	</usuario>
+	<usuario id="u3">
+		<nombre>mario</nombre>
+		<edad>41</edad>
+		<fechaRegistro>09/10/2010</fechaRegistro>
+	</usuario>
+</usuarios>

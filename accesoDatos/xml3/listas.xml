@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<listas>
+	<lista>
+		<nombre>das</nombre>
+		<numeroCanciones>4</numeroCanciones>
+		<canciones>
+			<cancion>
+				<titulo>asd</titulo>
+				<artista>asd</artista>
+				<duracion>32</duracion>
+			</cancion>
+			<cancion>
+				<titulo>asd</titulo>
+				<artista>ads</artista>
+				<duracion>23</duracion>
+			</cancion>
+			<cancion>
+				<titulo>asd</titulo>
+				<artista>asd</artista>
+				<duracion>45</duracion>
+			</cancion>
+			<cancion>
+				<titulo>asd</titulo>
+				<artista>da</artista>
+				<duracion>34</duracion>
+			</cancion>
+		</canciones>
+	</lista>
+</listas>

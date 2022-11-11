@@ -1,0 +1,3 @@
+Juan,Garcia,22,true
+Carmen,Suarez,16,false
+Maria,Rodriguez,18,true
