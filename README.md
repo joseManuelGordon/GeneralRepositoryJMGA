@@ -1,2 +1,0 @@
-# GeneralRepositoryJose
-General Repository
